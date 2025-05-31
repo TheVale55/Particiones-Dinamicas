@@ -1,0 +1,9 @@
+Bitácora inicializada. Memoria creada con 1 líneas libres.
+==== Inicio de simulación (Fri May 30 20:30:42 2025
+) ====
+==== Inicio de simulación (Fri May 30 20:31:38 2025
+) ====
+==== Inicio de simulación (Fri May 30 20:32:28 2025
+) ====
+==== Inicio de simulación (Fri May 30 20:33:53 2025
+) ====
