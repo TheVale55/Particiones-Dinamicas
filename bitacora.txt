@@ -7,3 +7,67 @@ Bitácora inicializada. Memoria creada con 1 líneas libres.
 ) ====
 ==== Inicio de simulación (Fri May 30 20:33:53 2025
 ) ====
+==== Inicio de simulación (Sun Jun  1 00:57:13 2025
+) ====
+==== Inicio de simulación (Sun Jun  1 01:00:25 2025
+) ====
+[Sun Jun  1 01:00:36 2025
+] PID: 137994359011008, Action: Attempting to allocate memory, Type: allocation, Lines: 8
+[Sun Jun  1 01:00:36 2025
+] PID: 137994359011008, Action: Memory allocated successfully, Type: allocation, Lines: 8
+[Sun Jun  1 01:01:13 2025
+] PID: 137994359011008, Action: Memory freed, Type: deallocation, Lines: 8
+[Sun Jun  1 01:01:24 2025
+] PID: 137994359011008, Action: Attempting to allocate memory, Type: allocation, Lines: 1
+[Sun Jun  1 01:01:24 2025
+] PID: 137994359011008, Action: Memory allocated successfully, Type: allocation, Lines: 1
+[Sun Jun  1 01:02:07 2025
+] PID: 137994279319232, Action: Attempting to allocate memory, Type: allocation, Lines: 4
+[Sun Jun  1 01:02:07 2025
+] PID: 137994279319232, Action: Memory allocated successfully, Type: allocation, Lines: 4
+[Sun Jun  1 01:02:19 2025
+] PID: 137994359011008, Action: Memory freed, Type: deallocation, Lines: 1
+[Sun Jun  1 01:02:37 2025
+] PID: 137994279319232, Action: Memory freed, Type: deallocation, Lines: 4
+[Sun Jun  1 01:02:59 2025
+] PID: 137994279319232, Action: Attempting to allocate memory, Type: allocation, Lines: 3
+[Sun Jun  1 01:02:59 2025
+] PID: 137994279319232, Action: Memory allocated successfully, Type: allocation, Lines: 3
+[Sun Jun  1 01:03:21 2025
+] PID: 137994279319232, Action: Memory freed, Type: deallocation, Lines: 3
+[Sun Jun  1 01:03:52 2025
+] PID: 137994279319232, Action: Attempting to allocate memory, Type: allocation, Lines: 8
+[Sun Jun  1 01:03:52 2025
+] PID: 137994279319232, Action: Memory allocated successfully, Type: allocation, Lines: 8
+[Sun Jun  1 01:04:25 2025
+] PID: 137994359011008, Action: Attempting to allocate memory, Type: allocation, Lines: 3
+[Sun Jun  1 01:04:25 2025
+] PID: 137994359011008, Action: Memory allocated successfully, Type: allocation, Lines: 3
+[Sun Jun  1 01:04:49 2025
+] PID: 137994279319232, Action: Memory freed, Type: deallocation, Lines: 8
+[Sun Jun  1 01:05:12 2025
+] PID: 137994279319232, Action: Attempting to allocate memory, Type: allocation, Lines: 8
+[Sun Jun  1 01:05:12 2025
+] PID: 137994279319232, Action: Memory allocated successfully, Type: allocation, Lines: 8
+[Sun Jun  1 01:05:18 2025
+] PID: 137994359011008, Action: Memory freed, Type: deallocation, Lines: 3
+==== Inicio de simulación (Sun Jun  1 01:12:07 2025
+) ====
+[Sun Jun  1 01:12:18 2025
+] PID: 137823434831552, Action: Attempting to allocate memory, Type: allocation, Lines: 5
+[Sun Jun  1 01:12:18 2025
+] PID: 137823434831552, Action: Memory allocated successfully, Type: allocation, Lines: 5
+[Sun Jun  1 01:12:56 2025
+] PID: 137823353042624, Action: Attempting to allocate memory, Type: allocation, Lines: 7
+[Sun Jun  1 01:12:56 2025
+] PID: 137823353042624, Action: Memory allocated successfully, Type: allocation, Lines: 7
+[Sun Jun  1 01:13:06 2025
+] PID: 137823434831552, Action: Memory freed, Type: deallocation, Lines: 5
+[Sun Jun  1 01:13:29 2025
+] PID: 137823353042624, Action: Memory freed, Type: deallocation, Lines: 7
+[Sun Jun  1 01:13:44 2025
+] PID: 137823353042624, Action: Attempting to allocate memory, Type: allocation, Lines: 8
+[Sun Jun  1 01:13:44 2025
+] PID: 137823353042624, Action: Memory allocated successfully, Type: allocation, Lines: 8
+==== Finalización de simulación (Sun Jun  1 01:13:55 2025
+) ====

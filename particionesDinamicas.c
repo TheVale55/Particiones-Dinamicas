@@ -159,7 +159,7 @@ int main(int argc, char *argv[]) {
     srand(time(NULL));
     
     // Configurar archivo de log
-    log_file = fopen("memory_log.txt", "a");
+    log_file = fopen("bitacora.txt", "a");
     if (!log_file) {
         perror("Error al abrir archivo de bitácora");
         return 1;

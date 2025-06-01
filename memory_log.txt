@@ -1,1 +1,15 @@
 
+[Sun Jun  1 00:57:33 2025
+] PID: 128277958096576, Action: Attempting to allocate memory, Type: allocation, Lines: 5
+[Sun Jun  1 00:57:33 2025
+] PID: 128277958096576, Action: Memory allocated successfully, Type: allocation, Lines: 5
+[Sun Jun  1 00:58:02 2025
+] PID: 128277958096576, Action: Memory freed, Type: deallocation, Lines: 5
+[Sun Jun  1 00:58:15 2025
+] PID: 128277958096576, Action: Attempting to allocate memory, Type: allocation, Lines: 3
+[Sun Jun  1 00:58:15 2025
+] PID: 128277958096576, Action: Memory allocated successfully, Type: allocation, Lines: 3
+[Sun Jun  1 00:58:55 2025
+] PID: 128277949703872, Action: Attempting to allocate memory, Type: allocation, Lines: 3
+[Sun Jun  1 00:58:55 2025
+] PID: 128277949703872, Action: Memory allocated successfully, Type: allocation, Lines: 3
