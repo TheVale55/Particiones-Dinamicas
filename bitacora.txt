@@ -1,9 +1,42 @@
-Bitácora inicializada. Memoria creada con 1 líneas libres.
-==== Inicio de simulación (Fri May 30 20:30:42 2025
+==== Inicio de simulación (Sun Jun  1 15:15:39 2025
 ) ====
-==== Inicio de simulación (Fri May 30 20:31:38 2025
-) ====
-==== Inicio de simulación (Fri May 30 20:32:28 2025
-) ====
-==== Inicio de simulación (Fri May 30 20:33:53 2025
-) ====
+[1748790967] PRODUCTOR: Iniciando con algoritmo First-Fit
+[1748790967] PRODUCTOR: Creado proceso 3365 (tamaño=4, tiempo=53s)
+[1748790967] PROCESO 3365: Iniciando (necesita 4 líneas)
+[1748790967] PROCESO 3365: Asignadas líneas 0-3
+[1748790973] PRODUCTOR: Creado proceso 3366 (tamaño=6, tiempo=55s)
+[1748790973] PROCESO 3366: Iniciando (necesita 6 líneas)
+[1748790973] PROCESO 3366: Asignadas líneas 4-9
+[1748790981] PRODUCTOR: Creado proceso 3368 (tamaño=6, tiempo=20s)
+[1748790981] PROCESO 3368: Iniciando (necesita 6 líneas)
+[1748790981] PROCESO 3368: Asignadas líneas 10-15
+[1748790991] PRODUCTOR: Creado proceso 3369 (tamaño=4, tiempo=56s)
+[1748790991] PROCESO 3369: Iniciando (necesita 4 líneas)
+[1748790991] PROCESO 3369: Asignadas líneas 16-19
+[1748791001] PROCESO 3368: Liberadas líneas 10-15
+[1748791009] PRODUCTOR: Creado proceso 3371 (tamaño=3, tiempo=26s)
+[1748791009] PROCESO 3371: Iniciando (necesita 3 líneas)
+[1748791009] PROCESO 3371: Asignadas líneas 10-12
+[1748791020] PROCESO 3365: Liberadas líneas 0-3
+[1748791024] PRODUCTOR: Creado proceso 3375 (tamaño=5, tiempo=55s)
+[1748791024] PROCESO 3375: Iniciando (necesita 5 líneas)
+[1748791024] PROCESO 3375: Asignadas líneas 20-24
+[1748791028] PROCESO 3366: Liberadas líneas 4-9
+[1748791029] PRODUCTOR: Creado proceso 3376 (tamaño=6, tiempo=34s)
+[1748791029] PROCESO 3376: Iniciando (necesita 6 líneas)
+[1748791029] PROCESO 3376: Asignadas líneas 0-5
+[1748791034] PRODUCTOR: Creado proceso 3379 (tamaño=9, tiempo=59s)
+[1748791034] PROCESO 3379: Iniciando (necesita 9 líneas)
+[1748791034] PROCESO 3379: Asignadas líneas 25-33
+[1748791035] PROCESO 3371: Liberadas líneas 10-12
+[1748791041] PRODUCTOR: Creado proceso 3380 (tamaño=4, tiempo=49s)
+[1748791041] PROCESO 3380: Iniciando (necesita 4 líneas)
+[1748791041] PROCESO 3380: Asignadas líneas 6-9
+[1748791047] PROCESO 3369: Liberadas líneas 16-19
+[1748791054] PRODUCTOR: Creado proceso 3382 (tamaño=7, tiempo=34s)
+[1748791054] PROCESO 3382: Iniciando (necesita 7 líneas)
+[1748791054] PROCESO 3382: Asignadas líneas 10-16
+[1748791063] PROCESO 3376: Liberadas líneas 0-5
+[1748791071] PRODUCTOR: Creado proceso 3383 (tamaño=7, tiempo=54s)
+[1748791071] PROCESO 3383: Iniciando (necesita 7 líneas)
+[1748791071] PROCESO 3383: Asignadas líneas 34-40

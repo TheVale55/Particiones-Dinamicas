@@ -8,8 +8,8 @@
 #include <time.h>
 
 #define MEM_SIZE 100 // Simulación de 100 líneas de memoria
-#define SHM_KEY 1234
-#define SEM_KEY 5678
+#define SHM_KEY 0x1234
+#define SEM_KEY 0x5678
 
 // Estructura para cada línea de memoria
 typedef struct {
@@ -18,13 +18,13 @@ typedef struct {
 } LineaMemoria;
 
 // Simula llenado aleatorio de la memoria
-void simular_memoria(LineaMemoria *memoria) {
+/* void simular_memoria(LineaMemoria *memoria) {
     srand(time(NULL));  // Semilla para aleatoriedad
     for (int i = 0; i < MEM_SIZE; i++) {
         memoria[i].ocupada = rand() % 2;  // 0 o 1
         memoria[i].pid = memoria[i].ocupada ? (rand() % 5000 + 1000) : 0;
     }
-}
+} */
 
 void imprimir_estado_memoria(LineaMemoria *memoria) {
     printf("===== ESTADO DE MEMORIA =====\n");
@@ -38,7 +38,7 @@ void imprimir_estado_memoria(LineaMemoria *memoria) {
 }
 
 int main() {
-    /*int shmid;
+    int shmid;
     LineaMemoria *memoria;
 
     // Obtener la memoria compartida
@@ -52,12 +52,12 @@ int main() {
     if (memoria == (void *) -1) {
         perror("Error al conectar memoria compartida");
         exit(1);
-    }*/
+    }
 
-    LineaMemoria memoria[MEM_SIZE];
+    //LineaMemoria memoria[MEM_SIZE];
 
     // Llenar con valores aleatorios para simular ocupación de memoria
-    simular_memoria(memoria);
+    //simular_memoria(memoria);
 
     // Mostrar estado de la memoria
     imprimir_estado_memoria(memoria);
