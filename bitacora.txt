@@ -1,0 +1,18 @@
+
+==== Inicio de simulación (Mon Jun  2 15:12:15 2025
+) ====
+[1748898748] PRODUCTOR: Iniciando con algoritmo First-Fit
+[1748898748] PRODUCTOR: Creado proceso 4772 (tamaño=6, tiempo=44s)
+[1748898748] PROCESO 4772: Iniciando (necesita 6 líneas)
+[1748898748] PROCESO 4772: Asignadas líneas 0-5
+[1748898761] PRODUCTOR: Creado proceso 4791 (tamaño=8, tiempo=28s)
+[1748898761] PROCESO 4791: Iniciando (necesita 8 líneas)
+[1748898761] PROCESO 4791: Asignadas líneas 6-13
+[1748898780] PRODUCTOR: Creado proceso 4809 (tamaño=4, tiempo=27s)
+[1748898780] PROCESO 4809: Iniciando (necesita 4 líneas)
+[1748898780] PROCESO 4809: Asignadas líneas 14-17
+[1748898788] PRODUCTOR: Creado proceso 4814 (tamaño=3, tiempo=27s)
+[1748898788] PROCESO 4814: Iniciando (necesita 3 líneas)
+[1748898788] PROCESO 4814: Asignadas líneas 18-20
+==== Finalización de simulación (Mon Jun  2 15:13:09 2025
+) ====
